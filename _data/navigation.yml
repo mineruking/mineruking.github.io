@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Home"
-    url: https://dyskang.github.io/
-  - title: "Bio"
-    url: /#bio
+    url: https://mineruking.github.io/
+  - title: "Education"
+    url: /#edu
   - title: "Publications"
     url: /#pub
-  - title: "Honors & Awards"
-    url: /#honors
+  - title: "Services"
+    url: /#Services
   - title: "CV"
-    url: /assets/files/dysk_cv.pdf
+    url: /assets/files/minkim_cv.pdf
   # - title: "Sample Posts"
     # url: /year-archive/
   # - title: "Sample Collections"
