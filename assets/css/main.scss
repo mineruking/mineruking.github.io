@@ -163,6 +163,16 @@ p.minor{ margin-left: 1em}
         margin-top: 0em; 
         margin-bottom: 0em; 
     }
+
+    .paper-buttons {
+      margin-top: 5px }
+    .paper .button {
+      display: inline-block;
+      height: 25px;
+      padding: 0 25px;
+      font-weight: 100;
+      line-height: 25px;
+      text-transform: none; }
 }
 @media screen and (max-width:768px) {
     .section{
