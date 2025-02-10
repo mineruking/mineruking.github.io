@@ -10,13 +10,13 @@ search: false
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
 
 .section_title{
-    font-family:  'Noto Sans',  Arial, sans-serif;
+    font-family:  'Noto Sans',  sans-serif;
     color: rgba(250, 50, 50, 0.9);
     //color: #FFCB05;
 }
 .my_paper{
-    font-family: 'Noto Sans', Arial, sans-serif;
-    font-size:  15px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:  16px;
 }
 .journal {
     // color:rgba(22, 99, 62, 1);
@@ -143,8 +143,8 @@ p.minor{ margin-left: 1em}
 
 @media screen and (max-width:1023px) {
     .my_paper{
-        font-family:  'Noto Sans', Arial, sans-serif;
-        font-size:  13px;
+        font-family:  'Noto Sans', sans-serif;
+        font-size:  14px;
     }
     .left {
         width: 10%;
