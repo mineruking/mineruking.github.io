@@ -7,15 +7,15 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
 
 .section_title{
-    font-family:    Arial, Helvetica, sans-serif;
+    font-family:  'Noto Sans',  Arial, Helvetica, sans-serif;
     color: rgba(250, 50, 50, 0.9);
     //color: #FFCB05;
 }
 .my_paper{
-    font-family:  Arial, Helvetica, sans-serif;
+    font-family: 'Noto Sans', Arial, Helvetica, sans-serif;
     font-size:  15px;
 }
 .journal {
