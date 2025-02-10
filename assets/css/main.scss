@@ -16,7 +16,7 @@ search: false
 }
 .my_paper{
     font-family: 'Kantumruy Pro', sans-serif;
-    font-size:  16px;
+    font-size:  14px;
 }
 .journal {
     // color:rgba(22, 99, 62, 1);
@@ -143,19 +143,19 @@ p.minor{ margin-left: 1em}
 
 @media screen and (max-width:1023px) {
     .my_paper{
-        font-family:  'Roboto', sans-serif;
+        font-family:  'Kantumruy Pro', sans-serif;
         font-size:  14px;
     }
     .left {
         width: 10%;
         font-weight: 900;
         padding-top: 2px;
-        font-size: 16px;
+        font-size: 14px;
     }
     p.title{
         font-weight: 900;
         color: (67, 124, 227, 0.96);
-        font-size: 14px;
+        font-size: 20px;
     }
     .section > p{
         font-size: 18px;
