@@ -7,6 +7,6 @@ venue: <strong>NOTHING 2025</strong>
 vtype: conference
 year: 2025
 ptype: Full Paper
-file: /assets/file/Multivariate Time-Series Imagification with Time Embedding in Constrained Environments 
+file: /assets/file/paperEx
 ---
 
