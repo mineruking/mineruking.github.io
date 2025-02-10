@@ -8,8 +8,8 @@ main:
     url: /#pub
   - title: "Services"
     url: /#Services
-  - title: "CV"
-    url: /assets/files/minkim_cv.pdf
+  #- title: "CV"
+  #  url: /assets/files/minkim_cv.pdf
   # - title: "Sample Posts"
     # url: /year-archive/
   # - title: "Sample Collections"
