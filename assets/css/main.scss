@@ -7,15 +7,15 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 .section_title{
-    font-family:  'Roboto',  sans-serif;
+    font-family:  'Kantumruy+Pro',  sans-serif;
     color: rgba(250, 50, 50, 0.9);
     //color: #FFCB05;
 }
 .my_paper{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Kantumruy+Pro', sans-serif;
     font-size:  16px;
 }
 .journal {
