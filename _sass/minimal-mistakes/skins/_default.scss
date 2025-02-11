@@ -1,5 +1,8 @@
-/* ==========================================================================
-   Default skin
-   ========================================================================== */
+// assets/css/_sass/minimal-mistakes/skins/default.scss
+// Default skin overrides
 
-// Intentionally left blank
+// 내비게이션 바 링크 hover 효과
+.nav__list a:hover,
+.greedy-nav a:hover {
+  border-bottom: 1px solid green;
+}
