@@ -95,6 +95,17 @@ hr.sep {
     color: rgba(0, 0, 0, 1);
     // color: rgba(250, 250, 250, 1);
 }
+.greedy-nav .visible-links a::before {
+    content: "";
+    position: absolute;
+    inset-inline-start: 0px;
+    bottom: 0px;
+    height: 4px;
+    width: 100%;
+    transform: scaleX(0) translate3d(0px, 0px, 0px);
+    background: green;
+    transition: 0.2s ease-in-out;
+}
 .greedy-nav a{
     background: #FFFFFF;
     color: rgba(0, 0, 0, 1);
