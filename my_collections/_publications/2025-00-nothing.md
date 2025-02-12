@@ -1,8 +1,8 @@
 ---
 id: 1
-title: 'Nothing Here Yet!'
+title: 'Nothing'
 index: C01
-authors: <strong><u>Min Kim</u></strong>
+authors: <strong><u>Min Kim</u></strong> Mineru
 venue: <strong>NOTHING 2025</strong>
 vtype: conference
 year: 2025
