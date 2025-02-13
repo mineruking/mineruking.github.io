@@ -6,8 +6,8 @@ main:
     url: /#edu
   - title: "Publications"
     url: /#pub
-  - title: "Services"
-    url: /#Services
+  - title: "Honors"
+    url: /#Honors
   #- title: "CV"
   #  url: /assets/files/minkim_cv.pdf
   # - title: "Sample Posts"
