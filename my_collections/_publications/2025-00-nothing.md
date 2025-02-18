@@ -7,6 +7,6 @@ venue: <strong>NOTHING 2025</strong>
 vtype: conference
 year: 2025
 ptype: Full Paper
-file: /assets/files/paperEx.pdf
+file: /assets/files/nothing.pdf
 ---
 
