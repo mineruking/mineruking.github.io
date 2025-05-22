@@ -1,12 +1,12 @@
 ---
 id: 1
-title: 'Nothing'
+title: 'Performance Improvement through 2D Restacking of Multivariate Time Series Data'
 index: C01
-authors: <strong><u>Min Kim</u></strong> Mineru
+authors: <strong><u>Min Kim</u></strong> Seungwoo Kang Ohyun Jo
 venue: <strong>NOTHING 2025</strong>
 vtype: conference
-year: 2025
-ptype: Full Paper
-file: /assets/files/nothing.pdf
+year: Jun. 2025
+ptype: Proceeding
+file: /assets/files/C01.pdf
 ---
 
