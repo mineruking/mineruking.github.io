@@ -7,6 +7,6 @@ venue: <strong>Proceedings of Symposium of the Korean Institute of communication
 vtype: conference
 year: Jun. 2025
 ptype: Proceeding
-file: /assets/files/C01.pdf
+file: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12361508
 ---
 
