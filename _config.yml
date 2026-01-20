@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Min Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -144,7 +144,7 @@ author:
       url: "https://www.linkedin.com/in/mineruking/"
     - label: "CV"
       icon : "fas fa-fw fa-file"
-      url: /assets/files/mkim_cv.pdf
+      url: /assets/files/mk_cv.pdf
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # # url: "https://instagram.com/"
