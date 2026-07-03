@@ -1,0 +1,12 @@
+---
+id: 4
+title: 'XAI-Driven Feature Optimization for Single-Cell Localization'
+index: J01
+authors: Byunghyuk Youn Hyejin Shin Seongae Kang <strong><u>Min Kim</u></strong>/Ohyun Jo
+venue: "<strong>IEEE Wireless Communications Letters</strong>"
+vtype: Journal
+year: July 2026
+ptype: Accepted 
+file: /assets/files/C04.pdf
+---
+
