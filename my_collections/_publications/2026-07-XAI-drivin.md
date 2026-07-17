@@ -7,6 +7,6 @@ venue: "<strong>IEEE Wireless Communications Letters</strong>"
 vtype: journal
 year: July 2026
 ptype: Accepted 
-file: /assets/files/C04.pdf
+file: /assets/files/J01.pdf
 ---
 
