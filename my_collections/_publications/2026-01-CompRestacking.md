@@ -7,6 +7,6 @@ venue: "<strong>The 40th Annual AAAI Conference on Artificial Intelligence Stude
 vtype: conference
 year: Jan. 2026
 ptype: Accepted
-file: /assets/files/C03.pdf
+file: https://ojs.aaai.org/index.php/AAAI/article/view/42227
 ---
 
